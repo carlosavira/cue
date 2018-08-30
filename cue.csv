@@ -1,0 +1,225 @@
+ID,SERVICE,FROM,AUTHOR,DESCRIPTION,DATE ENCODED,DATE ACCOMPLISHED,STATUS,ATTENDED BY,DELSTAT
+1,PHNCALL,rpo,jeo,olsis,09-24-2016 05:09PM,02-22-2018 02:39PM,done,,0
+2,PHNCALL,pldt,jeo,pldt,09-24-2016 05:10PM,09-24-2016 05:10PM,done,SIR DING,0
+3,PHNCALL,finance,jeo,slow internet conn. at finance,09-25-2016 08:34AM,01-31-2017 08:27AM,done,3,0
+4,NTWRK,gs faculty,haide,check acd wifi @ gs faculty,09-25-2016 09:48AM,09-26-2016 05:19PM,done,haidz,0
+5,NTWRK,hs faculty,m,check acd wifi,09-25-2016 10:28AM,09-26-2016 05:19PM,done,haidz,0
+6,SYSTMUNIT,bookkeeper,fernandez,cheackup & repair,09-25-2016 11:47AM,09-25-2016 11:48AM,done,haids,0
+7,PHNCALL,college department,fernandez,to sir carlos,09-26-2016 09:38AM,09-26-2016 09:38AM,done,Sir.Carlos,0
+8,NTWRK,high school faculty,fernandez,inter net connection,09-26-2016 09:52AM,09-26-2016 05:19PM,done,haidz,0
+9,PHNCALL,atvi,fernandez,to sir. bryan,09-26-2016 10:00AM,09-26-2016 10:00AM,done,Sir.bryan,0
+10,PHNCALL,supply center,fernandez,kasperskey,09-27-2016 08:30AM,09-27-2016 08:30AM,done,fernandez,0
+12,SYSTMUNIT,convent,fernandez,repair,09-27-2016 08:49AM,09-27-2016 08:50AM,done,fernandez,0
+13,PHNCALL,pre.student,beltran,tellephone,09-27-2016 01:11PM,09-27-2016 01:13PM,done,sir. haids,0
+14,SYSTMUNIT,jhs/shs lib.,jeo,check up/repair computer sets,09-27-2016 02:07PM,01-31-2017 08:27AM,done,3,0
+15,RSRVTION,college department,fernandez,h.s lab 1:6:00-8:00 pm,09-27-2016 07:01PM,01-31-2017 08:27AM,done,3,0
+16,SYSTMUNIT,shep,fernandez,mother board,09-28-2016 09:52AM,01-31-2017 08:27AM,done,3,0
+17,PHNCALL,h.r.d,fernandez,to sir.rey,10-01-2016 02:14PM,10-01-2016 02:14PM,done,Sir.Rey,0
+18,PHNCALL,finance,haide,looking for sir carlos,10-02-2016 08:47AM,10-02-2016 08:48AM,done,carlos,0
+19,SYSTMUNIT,h.s lib.,fernandez,deepdreeze off,10-04-2016 01:55PM,10-04-2016 01:55PM,done,fernandez and O.G.T,0
+20,RSRVTION,s.h.s faculty,rods,"inter.lab:oct.1,2016 at 3:00-5:00 pm",10-05-2016 07:25AM,01-31-2017 08:26AM,done,vic,0
+21,RSRVTION,app2 enterpreneurship subject,rods,"internet.lab:oct.1,2016 10:00-12:00 nn",10-05-2016 07:29AM,01-31-2017 08:26AM,done,3,0
+22,RSRVTION,for senior high eve.class,rods,"computer-lab.:oct.1,/1:00-3:00pm",10-05-2016 07:31AM,10-25-2016 08:45AM,done,3e,0
+23,PHNCALL,registrar,jeo,looking for sior heidi,10-08-2016 11:02AM,10-25-2016 08:45AM,done,r,0
+24,PHNCALL,adsf,adsf,tas,10-03-2016 12:12PM,,waiting,,1
+25,NTWRK,adsf,adf,asdf,10-03-2016 12:15PM,,waiting,,1
+26,RSRVTION,asdf,adsf,asdf:asdf,10-03-2016 12:21PM,,waiting,,1
+27,RSRVTION,h.s guidance,rods,h.s guidance:10-04-16,10-09-2016 08:48AM,01-31-2017 08:25AM,done,vic,0
+28,PRNTR,kasama student council,lemuel,check-up,10-09-2016 10:14AM,10-25-2016 08:45AM,done,u,0
+29,RSRVTION,finance,rods,finance:10/05/16,10-10-2016 08:48AM,10-25-2016 08:47AM,done,r,0
+30,PHNCALL,maam sheobe(hrdo),lemuel,looking for sir rey,10-11-2016 09:14AM,10-19-2016 01:30PM,done,rods,0
+31,PHNCALL,junior acad office,lemue;,usb damage in system unit,10-11-2016 09:15AM,10-25-2016 08:45AM,done,r,0
+32,PHNCALL,hs facualty,,acd pw maam del,10-11-2016 10:01AM,,waiting,,1
+33,PHNCALL,hs faculty,vic,"acd wife,pw maam,dell",10-11-2016 10:02AM,10-11-2016 10:39AM,done,vic,0
+34,PHNCALL,hrd mam.shobe,vic,looking for sir rey.,10-06-2016 11:13AM,10-19-2016 01:31PM,done,rods,0
+35,SYSTMUNIT,c.e.s,rods,request to repair,10-07-2016 10:33AM,10-27-2016 10:01AM,done,f,0
+36,RSRVTION,shs-facualty,vic,comlab1 8/9:am&1/3pm:8:00/9:00am&1:00/3:00pm,10-07-2016 11:05AM,,waiting,,1
+37,RSRVTION,as,d,comlab1 10.8.16:2,10-07-2016 11:07AM,,waiting,,1
+38,RSRVTION,shs-faculty,vic,comlab1 10.7.16:10.8.16 8/9am&3/9pm,10-07-2016 11:10AM,01-31-2017 08:25AM,done,3,0
+39,PHNCALL,finance,lemuel,"return call, sir sismar",10-07-2016 02:28PM,10-19-2016 01:31PM,done,r,0
+40,RSRVTION,shsep,vic,netlab:10/08/2016 (10-12am & 3-5pm),10-07-2016 04:20PM,01-31-2017 08:24AM,done,vic,0
+41,RSRVTION,senior high faculty,rods,com. lab 2: oct.15 and 22 8am 10am 1pm to 3pm,10-10-2016 02:56PM,10-25-2016 08:45AM,done,r,0
+42,PHNCALL,mam trixa,beltran,ibed id picture,10-12-2016 08:38AM,10-12-2016 08:38AM,done,beltran,0
+43,PHNCALL,high school faculty,beltran,internet connection,10-12-2016 10:08AM,10-19-2016 01:29PM,done,rods,0
+44,PHNCALL,camino,beltran,youtube acces,10-12-2016 10:16AM,10-12-2016 10:17AM,done,beltran,0
+45,PHNCALL,ibed secritary,beltran,internet connection,10-12-2016 11:27AM,10-12-2016 11:39AM,done,beltran,0
+46,PHNCALL,ssc,,internet connection,10-12-2016 08:11PM,10-19-2016 01:29PM,done,rods,0
+47,PHNCALL,sir daes,beltran,internet connection,10-12-2016 08:13PM,10-12-2016 08:13PM,done,beltran,0
+48,PHNCALL,sac office,mera,looking for sir tong,10-14-2016 10:43AM,10-19-2016 01:31PM,done,r,0
+49,PHNCALL,ibed sec,vic,tellphone ,10-17-2016 07:30AM,01-31-2017 08:24AM,done,vic,0
+50,SYSTMUNIT,support,rods,repair,10-17-2016 09:36AM,01-31-2017 08:24AM,done,vic,0
+51,RSRVTION,dean ,jeo,netlab:10/18/16 (10-11am),10-17-2016 08:05PM,10-19-2016 01:32PM,done,rods,0
+52,RSRVTION,dean,jeo,netlab:10/19/16(6-7pm),10-18-2016 04:31PM,10-19-2016 01:32PM,done,w,0
+53,PRNTR,gs guidance,lemuel,install,10-21-2016 01:41PM,,waiting,,1
+54,RSRVTION,1,1,com.lab 1&2. oct. 24 to 26.:1,10-21-2016 01:43PM,,waiting,,1
+55,RSRVTION,college dept.,lemuel,com lab 1 and 2:oct. 24 to 26,10-21-2016 01:43PM,01-31-2017 08:23AM,done,vic,0
+56,SYSTMUNIT,jhs/shs unit,lemuel,check and repair,10-21-2016 01:44PM,10-25-2016 08:46AM,done,r,0
+57,RSRVTION,gs/jhs/shs/col,lemuel,com lab 2 for destiny training:nov. 7 to 11 8:00 to 5:00 pm,10-21-2016 01:46PM,01-31-2017 08:23AM,done,vic,0
+58,PHNCALL,program head,lemuel,looking for sir haide,10-24-2016 10:03AM,10-25-2016 08:46AM,done,r,0
+59,PHNCALL,sso,jeo,looking for sir rey,10-24-2016 02:20PM,10-25-2016 08:45AM,done,r,0
+60,SYSTMUNIT,camino,jeo,lancard/ unit sound installation,10-24-2016 05:03PM,01-31-2017 08:23AM,done,vic,0
+61,PHNCALL,atv office,vic,looking for sir rey,10-25-2016 09:52AM,,waiting,,1
+62,PHNCALL,supply center,haide,sir albert looking for sir carlos,10-27-2016 08:57AM,,waiting,,1
+63,PHNCALL,rpo,vic,looking 4 sir haid,10-28-2016 01:59PM,,waiting,,1
+64,PHNCALL,finance,james war,ma'am rochelle called to look for sir heidi,10-28-2016 02:23PM,,waiting,,1
+65,PRNTR,bookstore,lemuel,check up and repair,11-08-2016 08:14AM,,waiting,,1
+66,SYSTMUNIT,high school lib.,lemuel,follow up,11-15-2016 10:33AM,,waiting,,1
+67,SYSTMUNIT,col. lib.,lg,not functioning well,11-16-2016 03:02PM,,waiting,,1
+68,SYSTMUNIT,col. lib.,lg,2 sys.units not functioning well,11-16-2016 03:07PM,01-31-2017 08:23AM,done,vic,0
+69,RSRVTION,gs secretary,lg,"gs comlab.:nov. 18, 2016> 10:30-11:10/1:00-1:30/1:50-2:30",11-17-2016 04:42PM,01-31-2017 08:23AM,done,vic,0
+70,RSRVTION,shs dept.,lg,net lab.:nov. 26 8:00 - 12:00\2:00 - 6:00,11-19-2016 02:45PM,01-31-2017 08:22AM,done,3,0
+71,RSRVTION,ibed,vic,chs jr.high:11.21.16,11-22-2016 01:19AM,01-31-2017 08:22AM,done,vic,0
+72,RSRVTION,college faculty,lemuel,collab2: nov. 24/ 4-5 pm,11-22-2016 03:11AM,01-31-2017 08:22AM,done,vic,0
+73,PHNCALL,atvi office,lemuel,looking for sir carlos,11-24-2016 02:47AM,01-31-2017 08:22AM,done,vic,0
+74,RSRVTION,senior hs. dept.,lg,"comlab.:sat, 26/11/16 8:00-1:00",11-24-2016 02:53PM,01-31-2017 08:22AM,done,vic,0
+75,RSRVTION,senior hs dept.,lg,"net lab.:sat. dec, 3, 2016 > 8:30-12:00/2:30-6:00",11-24-2016 02:55PM,01-31-2017 08:21AM,done,vic,0
+76,PHNCALL,supply center,lemuel,looking for sir carlos,11-24-2016 02:55PM,01-31-2017 08:21AM,done,vic,0
+77,PHNCALL,1,1,1,11-24-2016 02:55PM,,waiting,,1
+78,RSRVTION,shs faculty,lemuel,internet laboratory:jan. 07 2016/8:30 -12:00,11-24-2016 02:55PM,01-31-2017 08:28AM,done,vic,0
+79,SYSTMUNIT,ces ofiice,lemuel,repair mr. dais laptop,11-24-2016 02:55PM,01-31-2017 08:28AM,done,vic,0
+80,RSRVTION,shs faculty,lemuel,"comlab:dec. 10,12,13,14,15/8:00 - 2:00",11-24-2016 02:55PM,01-31-2017 08:28AM,done,vic,0
+81,SYSTMUNIT,hs guidance,jeo,transferring of tel. unit at the h.s guidance,11-24-2016 02:55PM,01-31-2017 08:28AM,done,vic,0
+82,SYSTMUNIT,college sec.,jeo,checking of computer ,11-24-2016 02:55PM,01-31-2017 08:28AM,done,vic,0
+83,RSRVTION,college dept,lg,net. lab.:1.16.17,01-16-2017 06:12PM,,waiting,,1
+84,RSRVTION,coll. dept.,lg,net. lab.:1.17.17. 10:00 - 11:00,01-16-2017 06:14PM,,waiting,,0
+85,SYSTMUNIT,campus office,lemuel,telephone repair,01-18-2017 07:56AM,,waiting,,0
+86,SYSTMUNIT,college dept,vic,pc servicing/diagnostic(part-time pc),01-19-2017 12:51PM,,waiting,,0
+87,PHNCALL,sister julie,??,cant downlod,01-19-2017 01:07PM,,waiting,,0
+88,RSRVTION,shs,lemuel,netlab:jan. 28 & feb. 4/8:30-12:00 am,01-20-2017 11:41PM,,waiting,,0
+89,RSRVTION,ibed,lemuel,gslab:jan. 26 2017/10:50-11:30am 1:50-3:30pm,01-24-2017 03:39AM,,waiting,,0
+90,PRNTR,c,c,c,01-25-2017 09:21AM,,waiting,,1
+91,PRNTR,hs guidance,lg,repair,01-25-2017 09:25AM,,waiting,,0
+92,RSRVTION,c,c,c:c,01-30-2017 01:47AM,,waiting,,1
+93,SYSTMUNIT,acd-shsep,lemuel,3 computer cases,01-30-2017 01:48AM,,waiting,,0
+94,SYSTMUNIT,college library,lemuel,install 2 pc foe destiny lib. nad opac station,01-30-2017 01:49AM,,waiting,,0
+95,RSRVTION,college dean,reynel angcajas,college dean:06:14pm feb. 21,02-16-2017 05:34AM,,waiting,,0
+96,RSRVTION,gs,ken,comlabgs:10:50 10:30,02-17-2017 08:02PM,,waiting,,0
+97,SYSTMUNIT,college dean,rain,computer reformat,02-21-2017 12:31PM,,waiting,,0
+98,RSRVTION,c,c,repair telephone:c,02-22-2017 05:15AM,,waiting,,1
+99,SYSTMUNIT,gs guidance,lemuel,repair telephone,02-22-2017 05:18AM,,waiting,,0
+100,SYSTMUNIT,hs guidance,lemuel,telephone repair,03-01-2017 03:15AM,,waiting,,0
+101,RSRVTION,college dept.,mera,"extension of laboratory hours:03/13-15, 2017",03-04-2017 02:58AM,,waiting,,0
+102,SYSTMUNIT,gs library,lemuel,reformat units,03-06-2017 04:34AM,,waiting,,0
+103,NTWRK,gs library,lemuel,repaie router,03-06-2017 04:35AM,,waiting,,0
+104,SYSTMUNIT,ibed secretary,ken diapues,request for repair,03-13-2017 12:35AM,,waiting,,0
+105,NTWRK,shs lib,lemuel,installation of the internet,03-21-2017 01:45AM,,waiting,,0
+106,RSRVTION,college faculty,lemuel,hs lab1:april 3/9:00am-4:00pm,03-23-2017 02:21AM,,waiting,,0
+107,RSRVTION,coll. dept.,reynel,coll. lab 1 (2f):04-03-17,03-26-2017 08:38AM,,waiting,,1
+108,PRNTR,property custodian,reynel,check and repair epson,03-26-2017 08:40AM,06-30-2010 11:34AM,done,rain,0
+109,SYSTMUNIT,college library,lemuel,repair 4 units,04-03-2017 08:09PM,,waiting,,0
+110,PRNTR,ibed,reynel,repair/check printer,05-10-2017 10:32PM,,waiting,,0
+111,SYSTMUNIT,ssu,marc,repair computer,05-10-2017 10:33PM,05-11-2017 01:38AM,done,reynel,0
+112,SYSTMUNIT,pco,reynel,repair and reformat asap,05-13-2017 07:18AM,,waiting,,0
+113,SYSTMUNIT,ssu - elem. guidance,reynel,"repair of computer unit, ribbon & colored printer transfer from gs office to receiving area (for elem. & jhs)",05-11-2017 03:46AM,,waiting,,0
+114,SYSTMUNIT,ibed,reynel,repair computer @sec. office,05-12-2017 02:26AM,,waiting,,0
+115,SYSTMUNIT,jhs,lemuel,repair 3 units at school paper office,05-16-2017 12:41AM,,waiting,,0
+116,NTWRK,shs faculty,reynel,"install wifi connection shs faculty, 4 office telephone senior high building",06-21-2017 12:04AM,,waiting,,0
+117,SYSTMUNIT,high school library,jessa,high school library check up computer,06-24-2010 12:06AM,,waiting,,0
+118,SYSTMUNIT,ibed-jhs,jessa,repair computer unit & printer,06-24-2010 01:08AM,,waiting,,0
+119,SYSTMUNIT,jhs ssf,rain,intall unit and internet also printer @ ssf jhs,06-25-2010 11:39PM,,waiting,,0
+120,SYSTMUNIT,college library,mera,check and repairof avr,06-26-2010 12:45AM,,waiting,,0
+121,NTWRK,college guidance,jeo,transfer internet wire from counseling room to the next connecting office,06-25-2010 03:06PM,,waiting,,1
+122,RSRVTION,hazel jumawan,rain,grade school annex:7:40 - 12:00 & 01:00pm - 04:00pm,06-25-2010 09:16PM,,waiting,,0
+123,PHNCALL,,,,06-30-2010 11:12AM,,waiting,,1
+124,NTWRK,aldrin dais,rain,transfer ces phone to new office(former rpo) & put up internet connection,06-30-2010 11:15AM,,waiting,,0
+125,SYSTMUNIT,gs guidance,lemuel,reformat repair and update,07-01-2010 05:21AM,,waiting,,0
+126,NTWRK,ssu - shs,rain,installation of computer internet connection,07-01-2010 08:30AM,,waiting,,0
+127,NTWRK,presidents office,rain,wifi unit for the board room,07-04-2010 05:32AM,,waiting,,0
+128,SYSTMUNIT,christian lloyd espinoza/external affairs,rain,digital telephone,07-04-2010 05:51AM,,waiting,,0
+129,NTWRK,ssu(ibed-shs),jessa,installation of internet connection(psychometrician unit),07-04-2010 11:54PM,,waiting,,0
+130,SYSTMUNIT,ibed-psychometrician,jessa, request for new hard drive for the pc,07-05-2010 12:07AM,,waiting,,0
+131,RSRVTION,jhs,ken diapues,genyo lab2:07/26/17 10:00-11:00am 07/27/17 3:00-4:00pm 07/28/17 10:50-11:45am & 1:45-2:40pm 07/31/17 2:00-3:00pm & 3:00-4:00pm,07-22-2017 09:24AM,08-23-2017 01:58AM,done,Ken,0
+132,SYSTMUNIT,clinic/ssu,jessa,computer set,07-24-2017 10:29AM,08-23-2017 02:00AM,done,Rain,0
+133,PRNTR,bookstore,john paul,request for check up/repair of bookstore printer.,07-24-2017 01:48PM,,waiting,,0
+134,SYSTMUNIT,college secretary,rain,request to check the computer units if it is working or not,07-27-2017 01:17PM,,waiting,,0
+135,NTWRK,gs ibed,rain,request for the cctv viewing of the grade school ground floor with the time span of 8:30 - 10:00am (urgent please),07-27-2017 01:22PM,,waiting,,0
+136,RSRVTION,shd,rain,genyo lab. 1:08/05/17 9:00am - 11:20am and 4:00pm - 6:20pm (saturday),07-27-2017 01:24PM,08-23-2017 01:57AM,done,Ken,0
+137,NTWRK,jhs library,lemuel,installation of tel. internet and wifi,07-28-2017 05:35PM,,waiting,,0
+138,NTWRK,ibed/gs,ken diapues,install,08-01-2017 02:05PM,,waiting,,0
+139,SYSTMUNIT,dean ,jeo,check up (no power) and printer sharing,08-11-2017 11:46PM,08-24-2017 01:41PM,done,rain,0
+140,SYSTMUNIT,college library,lemuel,check and repair,08-24-2017 10:42AM,08-24-2017 03:10PM,done,rain & JEO,0
+141,RSRVTION,shsd,rain,genyo lab:8/26/17,08-26-2017 07:04AM,09-01-2017 06:30PM,done,Rain,0
+142,RSRVTION,ibed,rain,"genyo lab:spet. 4-7, 2017",09-02-2017 01:03AM,,waiting,,0
+143,SYSTMUNIT,shs sac,rain,request for reformat of the computer to be used by the sac (evening) of shs,09-04-2017 04:14PM,,waiting,,0
+144,NTWRK,finance office,rain,request for internet connection (sa computer),09-04-2017 04:16PM,,waiting,,0
+145,RSRVTION,shsfaculty,,netlab:09-07-17 @7:50am-12:10pm & 3:10pm-4:10pm,09-06-2017 01:37PM,,waiting,,0
+146,SYSTMUNIT,registrar department,lanver,"request  to check our units , 2 units of system unit and monitor if it is possible to use or repair",09-11-2017 12:19PM,,waiting,,0
+147,RSRVTION,college dept.,lanver,computer lab w/ internet connection (15 units w/ internet connection) :september 21-22 2017 / @7-8pm,09-11-2017 02:01PM,,waiting,,0
+148,RSRVTION,c,c,c:c,09-11-2017 09:19PM,,waiting,,1
+149,PRNTR,gs faculty,lemuel,check and repair,09-11-2017 10:40AM,,waiting,,0
+150,PHNCALL,c,c,c,12-31-2001 11:02PM,,waiting,,1
+151,SYSTMUNIT,gs guidance office,jeo,repair of telephone unit,12-31-2001 11:03PM,,waiting,,0
+152,SYSTMUNIT,jhs library,lanver,request for check up + repair all the computer units of the hs library ,01-01-2002 10:21PM,,waiting,,0
+153,NTWRK,shs student activity coordinator's office,jessa,installation of internet connection at the shs student activity coordinator's office,01-01-2002 10:47PM,,waiting,,0
+154,RSRVTION,college department,jessa,genyo lab:09/19/17-09/22/17 8:00-9:00,09-18-2017 09:12AM,,waiting,,0
+155,RSRVTION,grade school,jessa,genyo lab.:09/19/17 10:40-11:30,09-18-2017 09:36AM,,waiting,,0
+156,PHNCALL,rpo,paul,to sir carlos from jp,09-18-2017 12:54AM,,waiting,,1
+157,RSRVTION,shs faculty dept.,lanver,hs lab1 (comlab1):september 19 2017,09-18-2017 01:32AM,,waiting,,1
+158,RSRVTION,college faculty,lanver,internet room (netlab):september 20 2017,09-18-2017 02:08AM,,waiting,,1
+159,NTWRK,college (bshrm lab ),lanver,lan connection,09-18-2017 02:10AM,,waiting,,0
+160,RSRVTION,digoy dept.,digay,genyo lab:09/20/17,09-18-2017 06:21AM,,waiting,,1
+161,PHNCALL,rao,jeo,return call for sir carlos from rao,09-20-2017 08:57AM,,waiting,,0
+162,RSRVTION,c,c,genyo lab 1 & 2:c,09-22-2017 01:50PM,,waiting,,1
+163,RSRVTION,shs dept.,ken diapues,genyo lab 1:09-23-17/09-30-17 9:30am-12:00pm & 3:30pm-6:20pm/9:30am-12:00pm & 1:00pm-6:20pm,09-22-2017 01:53PM,,waiting,,0
+164,RSRVTION,shs dept.,ken diapues,genyo lab 2:09-23-17/09-30-17 3:40pm-6:20pm/7:50am-11:20am & 2:00pm-6:20pm,09-22-2017 01:55PM,,waiting,,0
+165,PRNTR,ibed-sac,jessa,repair printer,09-25-2017 02:45PM,,waiting,,0
+166,SYSTMUNIT,jhs guidanceitor (cindy dama),rain,borrow 2 monitor aoc pn. 156sa  sn. e6488ja008911  aoc pn. 152v  sn. 41583ja050951,09-25-2017 03:49PM,,waiting,,0
+167,RSRVTION,,,genyo lab:,09-25-2017 06:08PM,,waiting,,1
+168,RSRVTION,hs dept.,ken diapues,genyo lab 2:09/25/17 10:40-11:30am,09-25-2017 06:09PM,,waiting,,0
+169,RSRVTION,miguela j. dagoy,lanver,"hs lab1 (comlab1):october 2 & 3,2017",09-26-2017 12:09PM,,waiting,,0
+170,RSRVTION,ibed,lemuel,genyo:9/27/2017 1:00 to 1:50,09-27-2017 06:03AM,,waiting,,0
+171,PRNTR,clinic,dexter amante,installation of l120 printer and epson,10-03-2017 10:55AM,,waiting,,0
+172,PHNCALL,,,,10-04-2017 12:57AM,,waiting,,0
+173,PHNCALL,support services,dexter amante,requested to repair their printer in support services,10-04-2017 01:00AM,,waiting,,0
+174,SYSTMUNIT,ceso,jeo,telephone repair,10-04-2017 02:19AM,,waiting,,0
+175,PRNTR,finance,vic,4,10-10-2017 05:20AM,,waiting,,1
+176,PRNTR,hrdo,dexter amante,request for printer repair,10-10-2017 07:00AM,,waiting,,0
+177,SYSTMUNIT,finance,vic,installation,10-10-2017 07:16AM,,waiting,,0
+178,RSRVTION,vic,\,internetlab:10/13/17 8_9:00am,10-13-2017 01:15AM,,waiting,,1
+179,RSRVTION,college dep,vic,netlab:10/13/17,10-13-2017 01:18AM,,waiting,,0
+180,RSRVTION,c,c,:c,10-20-2017 02:16AM,,waiting,,1
+181,RSRVTION,college faculty ryan galendez,james war,net lab:10/23-24/2017 1:00-5:00pm,10-20-2017 02:18AM,,waiting,,0
+182,RSRVTION,,,"internet lab:oct. 20, 2017",10-20-2017 08:47AM,,waiting,,1
+183,RSRVTION,college dept.,ken diapues,"internet lab:oct. 20, 2017 7:40am-9:00am",10-20-2017 08:48AM,,waiting,,0
+184,RSRVTION,shs ,lemuel,hslab 1 use 2 computer units:11-07-17/9-7:00,11-07-2017 10:41AM,,waiting,,0
+185,RSRVTION,hs mark gil b. restor,james w.,"com lab 1:nov.8-10, 2017 8am-7pm",11-08-2017 09:35AM,,waiting,,0
+186,SYSTMUNIT,camino,rain,install videomaker or video editor in camino computer,11-08-2017 11:38AM,,waiting,,0
+187,RSRVTION,c,c,sso:c,11-08-2017 03:47PM,,waiting,,1
+188,SYSTMUNIT,sso,james war,repair sso telephone,11-08-2017 03:48PM,,waiting,,0
+189,PRNTR,shs sac,,2epson l36,11-13-2017 08:55AM,,waiting,,0
+190,RSRVTION,hs ,,4computer comlab:8:amto:6:pm,11-13-2017 08:57AM,,waiting,,0
+191,RSRVTION,hs office,jw,com lab 1:11/15/17 8am - 6pm,11-15-2017 08:46AM,,waiting,,0
+192,RSRVTION,ibed,jeo,genyolab1:11/15/17&11/16/17,11-15-2017 12:12PM,,waiting,,0
+193,RSRVTION,dean,ken diapues,com lab1:11/16-17/17 11:00am-12:00pm,11-15-2017 01:24PM,,waiting,,0
+194,SYSTMUNIT,ibed secretary,davy,borrow monitor in ibed secretary,11-15-2017 04:16PM,,waiting,,0
+195,RSRVTION,hs secretary,lemuel,com lab 1:11-20-17/8:00-12:00,11-20-2017 08:49AM,,waiting,,0
+196,SYSTMUNIT,gs  guidance,lemuel,repair and printer,11-21-2017 02:34AM,,waiting,,0
+197,RSRVTION,c,c,c:c,11-21-2017 02:39AM,,waiting,,1
+198,SYSTMUNIT,disbursing in-charge,lemuel,borrow monitor,11-21-2017 02:40AM,,waiting,,0
+199,RSRVTION,grade school faculty (clent lapura),rain,internet laboratory:11/23/2017 9:50-10:40am and 2:40-3:30 pm,11-21-2017 09:45AM,,waiting,,0
+200,PHNCALL,pco,jeo,brandnew tv ,11-22-2017 12:32AM,,waiting,,0
+201,RSRVTION,college library,rain,com lab2 :11/28-29/17,11-23-2017 08:48AM,,waiting,,0
+202,RSRVTION,,,:,11-26-2017 09:14AM,,waiting,,0
+203,PRNTR,ibed secretary,lemuel,check and repair,11-26-2017 10:46AM,,waiting,,0
+204,SYSTMUNIT,bookstore,dexter amante,request checking the cash register of the bookstore extension,11-28-2017 07:32AM,,waiting,,0
+205,SYSTMUNIT,asst. principal,jeo,repair pc,11-13-2017 09:53PM,,waiting,,0
+206,SYSTMUNIT,shslib,jeo,assemble shs lib with internet,11-14-2017 02:20AM,,waiting,,0
+207,RSRVTION,ibed,rain,netlab:12/11-12-13/17,12-09-2017 01:22PM,,waiting,,0
+208,SYSTMUNIT,sspp/hs & gs avr,lemuel,telephone repair hs as gs avr,01-08-2018 10:18AM,,waiting,,0
+209,SYSTMUNIT,college dept.,rain,repair of telephone @ws counter lisud toplokon ang 1&3,01-09-2018 05:45PM,,waiting,,0
+210,PRNTR,shs faculty,dexter amante,repair of shs faculty printer,01-10-2018 10:17AM,,waiting,,0
+211,SYSTMUNIT,guidance office,lemuel,repair telephone at ssco(hs guidance),01-10-2018 01:14PM,,waiting,,0
+212,SYSTMUNIT,campus ministry,lemuel,telephone repair,01-15-2018 03:49AM,,waiting,,0
+213,SYSTMUNIT,camino,jeo,telephone repair,01-31-2018 09:03AM,,waiting,,0
+214,SYSTMUNIT,college lib.,rain,request for repair 3 system units @ college lib.,01-31-2018 02:25PM,,waiting,,0
+215,SYSTMUNIT,shs,lemuel,request for installation of applications,02-02-2018 08:05AM,,waiting,,0
+216,SYSTMUNIT,jhs dept. elsa villanueva,rain,repair of system unit asap,02-08-2018 01:42AM,,waiting,,0
+217,SYSTMUNIT,mwsp,lanver,request to check the musical bell at qpb,02-12-2018 09:30AM,,waiting,,0
+218,RSRVTION,college dept.,rain,com lab 1:feb 13,02-12-2018 08:45PM,,waiting,,0
+219,RSRVTION,college secretary,lanver,"internet laboratory:feb 21, 2018 4-5pm",02-21-2018 09:49AM,,waiting,,0
+220,RSRVTION,clent lapura,rain,internet lab:02-22-18,02-21-2018 05:15PM,,waiting,,1
+221,RSRVTION,clent lapura,rain,internet lab:02-22-18 01:00 - 02:50 pm,02-21-2018 05:17PM,,waiting,,0
+222,RSRVTION,ibed,rain,internet lab:feb. 27 and march 1,02-22-2018 02:39PM,02-26-2018 09:46AM,done,jeo,0
+223,RSRVTION,ibed,lanver,"netlab:feb 27,2018 and mar 1 2018",02-27-2018 08:44AM,,waiting,,0
+224,RSRVTION,c,c,internet lab.:feb-28-2018 & march-2-2018,02-27-2018 05:55PM,,waiting,,1
+225,RSRVTION,shs sac,jessa,internet lab.:feb-28-2018 & march 02.2018  2:00-3:00 pm,02-27-2018 06:01PM,,waiting,,0
